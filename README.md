@@ -1,7 +1,7 @@
 # Ujian-Akhir-Semester
 
 Soal  
-**[Soal_UAS_Algoritma_II.pdf](./Soal%20UAS%20Algoritma&20II.pdf)**
+**[Soal_UAS_Algoritma_II.pdf](./Soal%20UAS_Algortima_Pemrograman_2.pdf)**
 
 
 ## Dibuat Oleh
