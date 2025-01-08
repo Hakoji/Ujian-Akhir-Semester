@@ -1,7 +1,8 @@
 # Ujian-Akhir-Semester
 
 Soal  
-**[UAS_Algoritma II](./)**
+**[Soal_UAS_Algoritma_II.pdf](./Soal_UAS_Algoritma_II.pdf)**
+
 
 ## Dibuat Oleh
 - Nama : Ranggi Febrian  
