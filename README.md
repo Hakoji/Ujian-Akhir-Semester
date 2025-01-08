@@ -11,6 +11,12 @@ Soal
 ## Deskripsi Proyek
 Kumpulan solusi dan implementasi program Ujian Akhir Semester (UAS) yang mencakup algoritma Huffman coding, manipulasi array, sorting, dan fractal menggunakan C++.
 
+## Referensi Jawaban Soal
+
+Jawaban lengkap untuk soal nomor 1 (a, b, dan sebagian dari c) serta nomor 2 (a dan b) telah didokumentasikan dalam file PDF berikut:
+
+**[UAS_Algoritma II_Ranggi Febrian_231011402451.pdf](./UAS_Algoritma%20II_Ranggi%20Febrian_231011402451.pdf)**
+
 1. **Kompresi String (Huffman Coding):** Implementasi algoritma Huffman untuk encoding dan decoding string.
 2. **Penggabungan Array:** Menemukan pasangan bilangan dari dua array yang jumlahnya sesuai nilai tertentu dengan efisiensi optimal.
 3. **Quick Sort (Fungsional):** Implementasi quick sort menggunakan gaya pemrograman fungsional tanpa loop.
